@@ -14,3 +14,7 @@
 ## 代码分享
 
 - [MobileNet模型训练](code_sample/mobilenet.ipynb)
+
+## 交流讨论群
+
+![group_qrcode.png](images/group_qrcode.png)
