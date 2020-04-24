@@ -17,4 +17,4 @@
 
 ## 交流讨论群
 
-![group_qrcode.png](images/group_qrcode.png)
+![group_qrcode.png](https://pinshiv1.oss-cn-hangzhou.aliyuncs.com/ai/qr.png)
