@@ -13,8 +13,9 @@
 
 ## 代码分享
 
-- [MobileNet 模型训练](code_sample/tf2_mobilenet_train.ipynb)
-- [MobileNet 模型管理与服务部署](code_sample/tf2_mobilenet_deploy.ipynb)
+- [MobileNet 模型训练](code_sample/mobilenet/tf2_mobilenet_train.ipynb)
+- [MobileNet 模型管理与服务部署](code_sample/mobilenet/tf2_mobilenet_deploy.ipynb)
+- [ResNet 模型训练与预测](code_sample/resnet/resnet_cifar10.ipynb)
 
 ## 技术交流群
 
