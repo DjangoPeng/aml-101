@@ -16,6 +16,7 @@
 - [MobileNet 模型训练](code_sample/mobilenet/tf2_mobilenet_train.ipynb)
 - [MobileNet 模型管理与服务部署](code_sample/mobilenet/tf2_mobilenet_deploy.ipynb)
 - [ResNet 模型训练与预测](code_sample/resnet/resnet_cifar10.ipynb)
+- [YOLOv3 模型训练与预测](code_sample/yolov3/yolov3_gpu.ipynb)
 
 ## 技术交流群
 
